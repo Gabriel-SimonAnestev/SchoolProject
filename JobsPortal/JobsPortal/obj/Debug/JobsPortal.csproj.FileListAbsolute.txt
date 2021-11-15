@@ -1,0 +1,11 @@
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\bin\Debug\JobsPortal.exe.config
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\bin\Debug\JobsPortal.exe
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\bin\Debug\JobsPortal.pdb
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.csproj.AssemblyReference.cache
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.RegisterView.resources
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.Properties.Resources.resources
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.csproj.GenerateResource.cache
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.csproj.CoreCompileInputs.cache
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.exe
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.pdb
+C:\Users\draeg\source\repos\JobsPortal\JobsPortal\obj\Debug\JobsPortal.View.LoginView.resources
